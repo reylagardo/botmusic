@@ -1,0 +1,14 @@
+{
+    "prefix": "p!",
+    "guildId": "",
+    "clientId": "",
+    "owner": "",
+    "token": "",
+    "colorDefault": "#ecc5c0",
+    "colorError": "#FF4949",
+    "spotifyApi": {
+        "enabled": false,
+        "clientSecret": "Spotify Client Secret",
+        "clientId": "Spotify Client ID"
+    }
+}
